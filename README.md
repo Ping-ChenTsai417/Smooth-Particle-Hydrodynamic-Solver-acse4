@@ -23,8 +23,8 @@ Finer simulation visualisation:
 
 ### Python Post Processing 
 
-Created using [Post Processing](https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/blob/master/Post_processing.ipynb)
-
+Created using [Post Processing](blob/master/Post_processing.ipynb)
+% https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/
 
 
 ![animation.gif](https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/blob/master/animation.gif)
