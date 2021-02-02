@@ -14,11 +14,11 @@ surfaces. This tool implements the SPH method in C++ to solve wave generation in
 
 Initial simulation visualisation:
 
-![animation.gif](https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/blob/master/animation-1.gif)
+![animation.gif](animation-1.gif)
 
 Finer simulation visualisation:
 
-![animation.gif](https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/blob/master/animation-2.gif)
+![animation.gif](animation-2.gif)
 
 
 ### Python Post Processing 
@@ -27,7 +27,7 @@ Created using [Post Processing](https://github.com/acse-2019/acse-4-sph-lubhair-
 
 
 
-![animation.gif](https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/blob/master/animation.gif)
+![animation.gif](animation.gif)
 
 ![animation.gif](https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar/blob/master/crest.png)
 
@@ -36,7 +36,7 @@ Created using [Post Processing](https://github.com/acse-2019/acse-4-sph-lubhair-
 
 Clone the repository from Github by either:
 * Using command line:
-`git clone https://github.com/acse-2019/acse-4-sph-lubhair-yoo-ar.git`
+`git clone https://github.com/Ping-ChenTsai417/Smooth-Particle-Hydrodynamic-Solver-acse4.git`
 * Downloading the repository as a .zip
 
 ## Usage:
